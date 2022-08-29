@@ -8,4 +8,4 @@ Required parts:
 - 1 3225 8MHz crystal
 - Soldering skill
 
-![PCB Image](https://imgur.com/a/7Aw747W)
+![image0](https://user-images.githubusercontent.com/68218885/187230884-cbefb63f-d654-4b0e-ab99-66991c7e2f1c.jpg)
